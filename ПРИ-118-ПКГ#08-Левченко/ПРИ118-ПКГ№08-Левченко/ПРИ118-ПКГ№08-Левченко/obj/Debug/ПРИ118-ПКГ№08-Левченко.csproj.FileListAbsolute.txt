@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\ПРИ118-ПКГ№08-Левченко.exe.config
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\ПРИ118-ПКГ№08-Левченко.exe
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\ПРИ118-ПКГ№08-Левченко.pdb
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\Tao.FreeGlut.dll
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\Tao.OpenGl.dll
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\Tao.FreeGlut.xml
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\Tao.OpenGl.xml
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\obj\Debug\ПРИ118-ПКГ№08-Левченко.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\obj\Debug\ПРИ118_ПКГ_08_Левченко.Form1.resources
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\obj\Debug\ПРИ118_ПКГ_08_Левченко.Properties.Resources.resources
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\obj\Debug\ПРИ118-ПКГ№08-Левченко.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\obj\Debug\ПРИ118-ПКГ№08-Левченко.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\obj\Debug\ПРИ118-ПКГ№08-Левченко.csproj.CopyComplete
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\obj\Debug\ПРИ118-ПКГ№08-Левченко.exe
+C:\Users\hp\source\repos\ПРИ118-ПКГ№08-Левченко\ПРИ118-ПКГ№08-Левченко\obj\Debug\ПРИ118-ПКГ№08-Левченко.pdb
