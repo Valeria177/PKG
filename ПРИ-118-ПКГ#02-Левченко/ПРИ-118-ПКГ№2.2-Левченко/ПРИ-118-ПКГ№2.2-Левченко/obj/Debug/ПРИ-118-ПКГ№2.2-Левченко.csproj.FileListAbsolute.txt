@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\bin\Debug\ПРИ-118-ПКГ№2.2-Левченко.exe.config
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\bin\Debug\ПРИ-118-ПКГ№2.2-Левченко.exe
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\bin\Debug\ПРИ-118-ПКГ№2.2-Левченко.pdb
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ-118-ПКГ№2.2-Левченко.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ_118_ПКГ_2._2_Левченко.Form1.resources
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ_118_ПКГ_2._2_Левченко.Properties.Resources.resources
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ-118-ПКГ№2.2-Левченко.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ-118-ПКГ№2.2-Левченко.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ-118-ПКГ№2.2-Левченко.exe
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ-118-ПКГ№2.2-Левченко.pdb
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ_118_ПКГ_2._2_Левченко.preview.resources
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№2.2-Левченко\ПРИ-118-ПКГ№2.2-Левченко\obj\Debug\ПРИ_118_ПКГ_2._2_Левченко.aboutProgramm.resources
