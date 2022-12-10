@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№3-Левченко\ПРИ-118-ПКГ№3-Левченко\bin\Debug\ПРИ-118-ПКГ№3-Левченко.exe.config
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№3-Левченко\ПРИ-118-ПКГ№3-Левченко\bin\Debug\ПРИ-118-ПКГ№3-Левченко.exe
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№3-Левченко\ПРИ-118-ПКГ№3-Левченко\bin\Debug\ПРИ-118-ПКГ№3-Левченко.pdb
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№3-Левченко\ПРИ-118-ПКГ№3-Левченко\obj\Debug\ПРИ-118-ПКГ№3-Левченко.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№3-Левченко\ПРИ-118-ПКГ№3-Левченко\obj\Debug\ПРИ-118-ПКГ№3-Левченко.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№3-Левченко\ПРИ-118-ПКГ№3-Левченко\obj\Debug\ПРИ-118-ПКГ№3-Левченко.exe
+C:\Users\hp\source\repos\ПРИ-118-ПКГ№3-Левченко\ПРИ-118-ПКГ№3-Левченко\obj\Debug\ПРИ-118-ПКГ№3-Левченко.pdb
